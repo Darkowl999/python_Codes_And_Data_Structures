@@ -12,4 +12,5 @@ def mifuncionParamentros( a,b):
 def suma(numero1, numero2):
     return numero1+numero2
 print(suma(1,2))
-    
+
+
