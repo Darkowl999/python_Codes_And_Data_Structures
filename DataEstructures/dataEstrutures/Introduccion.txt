@@ -1,0 +1,29 @@
+QUE SON LAS ESTRUCTURA DE DATOS
+
+Una estructura de dato es una forma de organizar datos de una manera mas facil a la hora de
+manipularlos
+
+un dato puede ser una cadena, un entero, un booleano,etc
+
+TIPOS DE ESTRUCTURA DE DATOS
+***ESTRUCTURA DE DATOS LINEALES***
+-arreglos(JAVA,C++), Listas(python)
+-pilas
+-colas
+-listas enlazadas
+
+***ESTRUCTURA DE DATOS NO LINEALES***
+-Arboles
+-Grafos
+
+METODOS O ALGORITMOS QUE SE PUEDEN HACER CON LAS ESTRUCTURA DE DATOS
+***ORDENAMIENTOS***
+-Burbuja
+-Seleccion
+-Inserccion
+-Quicksort
+
+***Busquedas***
+-Lineal
+-Binaria
+
