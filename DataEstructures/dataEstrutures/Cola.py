@@ -48,10 +48,7 @@ class Cola():
             print("cola vacia")
         else:
             print("primer dato %d"%self.cola[0])
-
-
-
-
+   
 
 
 
