@@ -1,0 +1,2 @@
+class grafo():
+    pass
